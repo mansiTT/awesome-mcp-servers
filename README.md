@@ -6,7 +6,7 @@
 
 ---
 
-> **Test any server on this list instantly →** [MCP Playground Online](https://mcpplaygroundonline.com)
+> **Test any remote server on this list instantly →** [MCP Playground Online](https://mcpplaygroundonline.com)
 > No install. No setup. Paste your server URL and go.
 
 ---
