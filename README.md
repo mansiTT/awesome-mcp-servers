@@ -214,6 +214,7 @@
 - **[Klaviyo MCP](https://github.com/klaviyo/mcp-klaviyo)** — E-commerce email and SMS marketing automation via Klaviyo.
 - **[PostHog MCP](https://github.com/PostHog/mcp-server-posthog)** — Product analytics, feature flags, session recordings, and A/B tests.
 - **[Mixpanel MCP](https://github.com/mcp-servers/mcp-mixpanel)** — Event analytics, user segmentation, and funnel analysis from Mixpanel.
+- **[NotFair](https://notfair.co)** — Hosted Google Ads MCP. Diagnose campaign performance, recommend optimizations, and execute approved changes via the Google Ads API with a built-in human-approval gate.
 
 ---
 
